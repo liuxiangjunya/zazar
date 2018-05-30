@@ -1,0 +1,223 @@
+.header{
+	height: 110px;
+	line-height: 110px;
+}
+.header h1{
+	float: left;
+	background: url('../images/logo.png') no-repeat left;
+	text-indent: -9999px;
+	width: 181px;
+	height: 54px;
+	margin-top: 39px;
+}
+nav ul{
+	float: right;
+}
+nav ul li {
+	float: left;
+}
+nav ul li a{
+	color: #3B3B3B;
+	font-size: 14px;
+}
+nav ul li .a1{
+	margin-right: 49px;
+}
+.banner{
+	background: url('../images/banner.png');
+	height: 574px;
+	background-size: 100% 100%;
+}
+.content .con0{
+	height: 154px;
+	background: url('../images/xiao.png') no-repeat center top;
+	margin-top: -4px;
+	margin-bottom: 80px;
+}
+.content .con0 p{
+	font-size: 20px;
+	color: #FFF;
+	text-align: center;
+	line-height: 76px;
+}
+.content .con1 .shang{
+	margin-bottom: 23px;
+}
+.content .con1 ul{
+	width: 492px;
+}
+.content .con1 ul,.caidan{
+	float: left;
+}
+.content .con1 ul li{
+	width: 492px;
+	height: 97px;
+}
+.caidan a{
+	color: #555555;
+	font-size: 16px;
+}
+.caidan p{
+	color: #B7B7B7;
+}
+.ul-c1{
+	padding-right: 116px;
+}
+.shu{
+	float: right;
+}
+.xian{
+	border-top:1px solid #E2E1E1;
+	float: left;
+}
+.x1{
+	width: 193px;
+}
+.x2{
+	width: 213px;
+}
+.x3{
+	width: 200px;
+}
+.x4{
+	width: 219px;
+}
+.x5{
+	width: 206px;
+}
+.x6{
+	width: 180px;
+}
+.x7{
+	width: 213px;
+}
+.x8{
+	width: 218px;
+}
+.content .con1 .xia{
+	width: 131px;
+	height: 32px;
+	line-height: 32px;
+	margin: 0 auto;
+	border: 1px solid #D7D5D5;
+	background: url('../images/xia.png') no-repeat 109px center;
+}
+.content .con1 .xia a{
+	font-size: 14px;
+	color: #B7B7B7;
+	margin-left: 14px;
+	float: left;
+}
+.content .con1 .xia span{
+	font-size: 12px;
+	margin-left: 13px;
+}
+/**** 第二块 ****/
+.content .con2{
+	margin-top: 200px;
+	height: 563px;
+}
+.content .con2 h2{
+	font-size: 20px;
+}
+.con2 .lunbo i{
+	display: inline-block;
+	width: 9px;
+	height: 9px;
+	border-radius: 50%;
+	background: #DEDEDE;
+	margin-left: 11px;
+}
+.lunbo i:hover{
+	background: #9B9B9B;
+	cursor: pointer;
+}
+.con2 .lunbo{
+	float: right;
+}
+.content .con2 .con2_xia ul li{
+	float: left;
+	width: 231px;
+	height: 269px;
+}
+.content .con2 .con2_xia ul .li_mr{
+	margin-right: 59px;
+}
+.content .con2 .con2_xia ul .li_mr1{
+	margin-right: 58px;
+}
+.content .con2 .con2_xia p{
+	color: #555555;
+	font-size: 16px;
+	text-align: right;
+	margin-top: 29px;
+}
+.content .con2 .con2_xia span{
+	float: left;
+}
+.star em{
+	display: inline-block;
+	width: 12px;
+	height: 12px;
+	margin-top: 14px;
+	background: url('../images/star1.png');
+}
+.star .star2{
+	background: url('../images/star2.png');
+}
+/**** 第三块 ****/
+.content .con3{
+	height: 728px;
+}
+.sh{
+	height: 22px;
+	margin-bottom: 130px;
+}
+h2{
+	color: #3B3B3B;
+	font-size: 22px;
+	float: left;
+}
+.border{
+	width: 200px;
+	margin-top: 10px;
+	margin-left: 19px;
+	border-top: 1px solid #E5E3E3;
+	float: left;
+}
+.img{
+	float: left;
+}
+.footer{
+	height: 317px;
+	background: #3B3B3B;
+}
+.footer .foot{
+	padding-top: 100px;
+}
+.f_zuo{
+	width: 869px;
+}
+.f_zuo,.f_you{
+	float: left;
+}
+.footer .foot dl{
+	float: left;
+	width: 230px;
+	color: #EBEBEB;
+	font-size: 16px;
+}
+.mr{
+	margin-right: 60px;
+}
+dt,dd{
+	line-height: 30px;
+}
+.f_you img{
+	margin-left: 10px;
+}
+.f_you a{
+	line-height: 30px;
+	font-size: 14px;
+	color: #EBEBEB;
+}
